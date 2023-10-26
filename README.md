@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Pou-Chang(John) Chen
 #### I am an E-commerce automation engineer
-I'm John. I believe weather affects our daily life, so I am dedicated to finding how weather information can apply to our businesses.🌦️ My wordpress blog dicusses about the weather applications. I also like to write gidgets to make automatic systems.🧱 It's fun to put different things together into a creative tool.
+I believe weather affects our daily life, so I am dedicated to finding how weather information can apply to our businesses.🌦️ My wordpress blog dicusses about the weather applications. I also like to write gidgets to make automatic systems.🧱 It's fun to put different things together into a creative tool.
 
 Skills: JS / React / Node / Python
 
