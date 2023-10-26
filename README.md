@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm John.  I believe weather affects our daily life, so I am dedicated to finding how weather information can apply to our businesses.  [My wordpress blog](https://wishingwork.wordpress.com/) dicusses about the weather applications.  I also like to write gidgets to make automatic systems.  It's fun to put different things together into a creative tool.
+
+
+
 <!--
 **wishingwork/wishingwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
