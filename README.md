@@ -13,6 +13,11 @@ Skills: JS / React / Node / Python
 ---
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weather Factors Impact Demand Forecasting](https://wishingwork.wordpress.com/2023/09/04/weather-factors-impact-demand-forecasting/)
+- [Weather Analysis Is for Better Understanding and Better Prediction](https://wishingwork.wordpress.com/2023/08/30/weather-analysis-is-for-better-understanding-and-better-prediction/)
+- [The Specialties of a Machine Learning Workflow in Weather Domain](https://wishingwork.wordpress.com/2023/07/27/the-specialties-of-a-machine-learning-workflow-in-weather-domain/)
+- [Weather Factors Impact on Online Sales](https://wishingwork.wordpress.com/2023/07/01/weather-factors-impact-on-online-sales/)
+- [Two Types of Weather Indexes for Business Performance](https://wishingwork.wordpress.com/2023/06/25/two-types-of-weather-indexes-for-business-performance/)
 <!-- BLOG-POST-LIST:END -->
 
 
