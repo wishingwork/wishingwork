@@ -10,7 +10,7 @@ Skills: JS / React / Node / Python
 - 💬 Ask me about how to use weather data in business 
 - ⚡ Fun fact: I have traveled around the US by taking Amtrak for Coach, Roomettes, and Family Room over nights 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wishingwork)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pou-chang-john-chen-98b9a626/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/wishingwork)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg' alt='wordpress' height='40'>](https://wishingwork.wordpress.com/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wishingwork)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pou-chang-john-chen-98b9a626/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@9.21.0/icons/x.svg' alt='twitter' height='40'>](https://twitter.com/wishingwork)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg' alt='wordpress' height='40'>](https://wishingwork.wordpress.com/)  
 
 ---
 ### 📝 Blog posts
