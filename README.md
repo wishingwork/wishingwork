@@ -15,11 +15,11 @@ Skills: JS / React / Node / Python
 ---
 ### 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Workflow Cost Estimation of a Serverless Web Application on AWS &lpar;S3 + API Gateway + Lambda&rpar;](https://wishingwork.wordpress.com/2023/11/14/the-workflow-cost-estimation-of-a-serverless-web-application-on-aws-s3-api-gateway-lambda/)
 - [The Order of Applying AWS Lambda Layers Matters – AWS Lambda Function and Layers](https://wishingwork.wordpress.com/2023/11/08/the-order-of-applying-aws-lambda-layers-matters-aws-lambda-function-and-layers/)
 - [Weather Factors Impact Demand Forecasting](https://wishingwork.wordpress.com/2023/09/04/weather-factors-impact-demand-forecasting/)
 - [Weather Analysis Is for Better Understanding and Better Prediction](https://wishingwork.wordpress.com/2023/08/30/weather-analysis-is-for-better-understanding-and-better-prediction/)
 - [The Specialties of a Machine Learning Workflow in Weather Domain](https://wishingwork.wordpress.com/2023/07/27/the-specialties-of-a-machine-learning-workflow-in-weather-domain/)
-- [Weather Factors Impact on Online Sales](https://wishingwork.wordpress.com/2023/07/01/weather-factors-impact-on-online-sales/)
 <!-- BLOG-POST-LIST:END -->
 
 
