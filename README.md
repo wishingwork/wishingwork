@@ -15,11 +15,11 @@ Skills: JS / React / Node / Python
 ---
 ### 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Travel Smarter: Integrating Multi-Location Weather Forecasts into Your Calendar](https://wishingwork.wordpress.com/2025/05/15/travel-smarter-integrating-multi-location-weather-forecasts-into-your-calendar/)
 - [Weather Impacts Smart Grid Power Supply](https://wishingwork.wordpress.com/2025/03/26/weather-impacts-smart-grid-power-supply/)
 - [From a Transportation Government Severe Weather Preparation Meeting to Know How to Prepare a Travel under Snowstorms](https://wishingwork.wordpress.com/2024/08/10/from-a-transportation-government-severe-weather-preparation-meeting-to-know-how-to-prepare-a-travel-under-snowstorms/)
 - [IOT Applications in E-Commerce Inventory Management Workflow](https://wishingwork.wordpress.com/2024/03/11/iot-applications-in-e-commerce-inventory-management-workflow/)
 - [The Workflow Cost Estimation of a Serverless Web Application on AWS &lpar;S3 + API Gateway + Lambda&rpar;](https://wishingwork.wordpress.com/2023/11/14/the-workflow-cost-estimation-of-a-serverless-web-application-on-aws-s3-api-gateway-lambda/)
-- [The Order of Applying AWS Lambda Layers Matters – AWS Lambda Function and Layers](https://wishingwork.wordpress.com/2023/11/08/the-order-of-applying-aws-lambda-layers-matters-aws-lambda-function-and-layers/)
 <!-- BLOG-POST-LIST:END -->
 
 
