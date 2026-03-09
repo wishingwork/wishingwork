@@ -15,11 +15,11 @@ Skills: JS / React / Node / Python
 ---
 ### 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Smarter Decisions, Together: Unpacking the Power of Sharing and AI in WeatherGoPlan](https://wishingwork.wordpress.com/2026/03/02/smarter-decisions-together-unpacking-the-power-of-sharing-and-ai-in-weathergoplan/)
 - [Personalized Weather Product](https://wishingwork.wordpress.com/2026/01/14/personalized-weather-product/)
 - [WeatherGo Plan](https://wishingwork.wordpress.com/2026/01/12/weathergo-plan/)
 - [Travel Smarter: Integrating Multi-Location Weather Forecasts into Your Calendar](https://wishingwork.wordpress.com/2025/05/15/travel-smarter-integrating-multi-location-weather-forecasts-into-your-calendar/)
 - [Weather Impacts Smart Grid Power Supply](https://wishingwork.wordpress.com/2025/03/26/weather-impacts-smart-grid-power-supply/)
-- [From a Transportation Government Severe Weather Preparation Meeting to Know How to Prepare a Travel under Snowstorms](https://wishingwork.wordpress.com/2024/08/10/from-a-transportation-government-severe-weather-preparation-meeting-to-know-how-to-prepare-a-travel-under-snowstorms/)
 <!-- BLOG-POST-LIST:END -->
 
 
