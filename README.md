@@ -15,11 +15,11 @@ Skills: JS / React / Node / Python
 ---
 ### 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI, Creation, and the Human Spirit – The Human Spirit Defines Value](https://wishingwork.wordpress.com/2026/03/11/ai-creation-and-the-human-spirit-the-human-spirit-defines-value/)
 - [Smarter Decisions, Together: Unpacking the Power of Sharing and AI in WeatherGoPlan](https://wishingwork.wordpress.com/2026/03/02/smarter-decisions-together-unpacking-the-power-of-sharing-and-ai-in-weathergoplan/)
 - [Personalized Weather Product](https://wishingwork.wordpress.com/2026/01/14/personalized-weather-product/)
 - [WeatherGo Plan](https://wishingwork.wordpress.com/2026/01/12/weathergo-plan/)
 - [Travel Smarter: Integrating Multi-Location Weather Forecasts into Your Calendar](https://wishingwork.wordpress.com/2025/05/15/travel-smarter-integrating-multi-location-weather-forecasts-into-your-calendar/)
-- [Weather Impacts Smart Grid Power Supply](https://wishingwork.wordpress.com/2025/03/26/weather-impacts-smart-grid-power-supply/)
 <!-- BLOG-POST-LIST:END -->
 
 
