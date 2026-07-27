@@ -15,11 +15,11 @@ Skills: JS / React / Node / Python
 ---
 ### 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [WeatherGoPlan Event Explore: The Shift from Static Location Search to a Dynamic Real-World System](https://wishingwork.wordpress.com/2026/03/30/the-shift-from-static-location-search-to-a-dynamic-real-world-system/)
-- [AI, Creation, and the Human Spirit – The Human Spirit Defines Value](https://wishingwork.wordpress.com/2026/03/11/ai-creation-and-the-human-spirit-the-human-spirit-defines-value/)
-- [Smarter Decisions, Together: Unpacking the Power of Sharing and AI in WeatherGoPlan](https://wishingwork.wordpress.com/2026/03/02/smarter-decisions-together-unpacking-the-power-of-sharing-and-ai-in-weathergoplan/)
-- [Personalized Weather Product](https://wishingwork.wordpress.com/2026/01/14/personalized-weather-product/)
-- [WeatherGo Plan](https://wishingwork.wordpress.com/2026/01/12/weathergo-plan/)
+- [My AI Filmmaking Journey 5 – Power, Hardware, and the Creative Soul: Final Reflections on AI Filmmaking](https://wishingwork.wordpress.com/2026/07/25/power-hardware-and-the-creative-soul-final-reflections-on-ai-filmmaking/)
+- [My AI Filmmaking Journey 4 – The Director-Centric AI Workflow: Integrating Storytelling into Every Production Stage](https://wishingwork.wordpress.com/2026/07/24/the-director-centric-ai-workflow-integrating-storytelling-into-every-production-stage/)
+- [My AI Filmmaking Journey 3 – From Tool Mastery to Integration: Facing the Technical Challenges and Real Costs of AI Filmmaking](https://wishingwork.wordpress.com/2026/07/23/from-tool-mastery-to-integration-facing-the-technical-challenges-and-real-costs-of-ai-filmmaking/)
+- [My AI Filmmaking Journey 2 – Directing from Scratch: Mastering AI Filmmaking Through Professional Cinematography and Storytelling](https://wishingwork.wordpress.com/2026/07/22/directing-from-scratch-mastering-ai-filmmaking-through-professional-cinematography-and-storytelling/)
+- [My AI Filmmaking Journey 1 – AI Filmmaking: Bridging Development Expertise and Artistic Expression](https://wishingwork.wordpress.com/2026/07/21/ai-filmmaking-bridging-development-expertise-and-artistic-expression/)
 <!-- BLOG-POST-LIST:END -->
 
 
