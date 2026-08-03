@@ -15,11 +15,11 @@ Skills: JS / React / Node / Python
 ---
 ### 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My AI Filmmaking Journey 5 – Power, Hardware, and the Creative Soul: Final Reflections on AI Filmmaking](https://wishingwork.wordpress.com/2026/07/25/power-hardware-and-the-creative-soul-final-reflections-on-ai-filmmaking/)
-- [My AI Filmmaking Journey 4 – The Director-Centric AI Workflow: Integrating Storytelling into Every Production Stage](https://wishingwork.wordpress.com/2026/07/24/the-director-centric-ai-workflow-integrating-storytelling-into-every-production-stage/)
-- [My AI Filmmaking Journey 3 – From Tool Mastery to Integration: Facing the Technical Challenges and Real Costs of AI Filmmaking](https://wishingwork.wordpress.com/2026/07/23/from-tool-mastery-to-integration-facing-the-technical-challenges-and-real-costs-of-ai-filmmaking/)
-- [My AI Filmmaking Journey 2 – Directing from Scratch: Mastering AI Filmmaking Through Professional Cinematography and Storytelling](https://wishingwork.wordpress.com/2026/07/22/directing-from-scratch-mastering-ai-filmmaking-through-professional-cinematography-and-storytelling/)
-- [My AI Filmmaking Journey 1 – AI Filmmaking: Bridging Development Expertise and Artistic Expression](https://wishingwork.wordpress.com/2026/07/21/ai-filmmaking-bridging-development-expertise-and-artistic-expression/)
+- [My AI Filmmaking Journey 5 – Power, Hardware, and the Creative Soul: Final Reflections on AI Filmmaking｜我的AI 電影製作心路歷程5: AI 正在改變技術遊戲規則，但它永遠無法取代說故事的人](https://wishingwork.wordpress.com/2026/07/25/power-hardware-and-the-creative-soul-final-reflections-on-ai-filmmaking/)
+- [My AI Filmmaking Journey 4 – The Director-Centric AI Workflow: Integrating Storytelling into Every Production Stage｜我的AI 電影製作心路歷程4: 不要只用工程師的思維做電影，要用導演的思維](https://wishingwork.wordpress.com/2026/07/24/the-director-centric-ai-workflow-integrating-storytelling-into-every-production-stage/)
+- [My AI Filmmaking Journey 3 – From Tool Mastery to Integration: Facing the Technical Challenges and Real Costs of AI Filmmaking｜我的AI 電影製作心路歷程3: 掌握工具只是起點，整合 AI 影片才是真正的「修羅場」](https://wishingwork.wordpress.com/2026/07/23/from-tool-mastery-to-integration-facing-the-technical-challenges-and-real-costs-of-ai-filmmaking/)
+- [My AI Filmmaking Journey 2 – Directing from Scratch: Mastering AI Filmmaking Through Professional Cinematography and Storytelling｜我的AI 電影製作心路歷程2: 從零開始學電影：為什麼 AI 創作需要「攝影與敘事」的專業知識？](https://wishingwork.wordpress.com/2026/07/22/directing-from-scratch-mastering-ai-filmmaking-through-professional-cinematography-and-storytelling/)
+- [My AI Filmmaking Journey 1 – AI Filmmaking: Bridging Development Expertise and Artistic Expression｜我的AI 電影製作心路歷程1: 從軟體開發到 AI 電影創作：當「領域專業」成為關鍵驅動力](https://wishingwork.wordpress.com/2026/07/21/ai-filmmaking-bridging-development-expertise-and-artistic-expression/)
 <!-- BLOG-POST-LIST:END -->
 
 
